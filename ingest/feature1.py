@@ -6,3 +6,4 @@ data = pd.DataFrame([])
 print(data)
 
 proces = []
+process = data
