@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import matlplotlib
 import airflow
+import pylint
+import data
 
 data = pd.DataFrame([])
 print(data)
@@ -11,4 +13,7 @@ process = data
 
 for data in proces:
     print(data)
+    return data
+
+
 
