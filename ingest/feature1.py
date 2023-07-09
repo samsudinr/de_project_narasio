@@ -14,6 +14,3 @@ process = data
 for data in proces:
     print(data)
     return data
-
-
-
