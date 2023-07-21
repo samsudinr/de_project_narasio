@@ -1,8 +1,8 @@
-import pandas as pd
+# import pandas as pd
 # import numpy as np
-import matlplotlib
-import airflow
-import data
+# import matlplotlib
+# import airflow
+import data as pd
 
 data = pd.DataFrame([])
 print(data)
@@ -10,6 +10,6 @@ print(data)
 proces = []
 process = data
 
-for data in proces:
-    print(data)
-    return data
+# for data in proces:
+#     print(data)
+#     return data
